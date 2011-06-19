@@ -1,0 +1,4 @@
+{
+  "name": "jshint",
+  "main": "./jshint.js"
+}
